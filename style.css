@@ -1,0 +1,17 @@
+body{
+    background-image: url("./image/fib.jpg");
+}
+#soru{
+    text-align: center;
+    margin-top: 10%;
+}
+#ans{
+    width: 20%;
+    border: 1px solid red;
+    text-align: center;
+    min-height: 30px;
+    margin-left: 40%;
+    background-color: rgba(111, 128, 74, 0.5);
+    color: brown;
+    
+}
